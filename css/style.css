@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  /*background-image: url('../img/code.jpg');*/
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -20,16 +20,16 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #070606;
 }
 
 .masthead-heading {
     margin-top: -0.2em;
     font-weight: bold;
-    font-size: 6em;
+    font-size: 2em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #070606;
 }
 
 .details {
